@@ -5,11 +5,15 @@
 
 
 <p align="center">
-  
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=AbderrahimeEl&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimeEl&layout=compact) 
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AbderrahimeEl&show_icons=true&theme=radical" alt="AbderrahimeEl's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderrahimeEl&theme=radical" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimeEl&layout=compact&theme=radical&custom_title=Top%20Languages&card_width=400" alt="Top Languages" />
+</p>
+
+
+
 <!---
 AbderrahimeEl/AbderrahimeEl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
