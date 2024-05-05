@@ -4,7 +4,7 @@
 - 📫 How to reach me   elabderrahim012@gmail.com
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AbderrahimeEl&show_icons=true&theme=radical" alt="AbderrahimeEl's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimeEl&layout=compact&theme=radical&custom_title=Top%20Languages&card_width=400" alt="Top Languages" />
 </p>
