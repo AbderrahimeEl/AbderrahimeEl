@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abderrahime Elmoutaouakil
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning java
 - 📫 How to reach me   elabderrahim012@gmail.com
 
 
