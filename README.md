@@ -8,10 +8,6 @@
 
 <br></div>
 
-
-- 🌱 I’m currently learning Java
-- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-abderrahim.elmoutaouakil4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:abderrahim.elmoutaouakil4@gmail.com)
-
 <!--- 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AbderrahimeEl&show_icons=true&theme=cobalt" alt="AbderrahimeEl's GitHub Stats" />
