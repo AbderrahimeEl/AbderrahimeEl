@@ -10,16 +10,18 @@
    <img src="https://skillicons.dev/icons?i=java" width="30" alt="HTML">
    <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="CSS">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="JavaScript">
+   <img src="https://skillicons.dev/icons?i=express" width="30" alt="MongoDB">
+   <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js">
    <img src="https://skillicons.dev/icons?i=js" width="30" alt="C">
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="C++">
    <img src="https://skillicons.dev/icons?i=mongodb" width="30" alt="Java">
    <img src="https://skillicons.dev/icons?i=redis" width="30" alt="Flutter">
-   <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js">
    <img src="https://skillicons.dev/icons?i=spring" width="30" alt="MongoDB">
-   <img src="https://skillicons.dev/icons?i=express" width="30" alt="MongoDB">
+   <img src="https://skillicons.dev/icons?i=maven" width="30" alt="MongoDB">
    <img src="https://skillicons.dev/icons?i=docker" width="30" alt="React.js">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="PHP">
    <img src="https://skillicons.dev/icons?i=github" width="30" alt="MySQL">
+   <img src="https://skillicons.dev/icons?i=githubactions" width="30" alt="MongoDB">
    <img src="https://skillicons.dev/icons?i=postman" width="30" alt="Postman">
    <img src="https://skillicons.dev/icons?i=linux" width="30" alt="Flutter">
    <img src="https://skillicons.dev/icons?i=windows" width="30" alt="Flutter">
@@ -30,10 +32,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahimeEl&layout=compact&theme=cobalt&custom_title=Top%20Languages&card_width=300" alt="Top Languages" />
 </p>  
 --->
-
-
-[![](https://visitcount.itsvg.in/api?id=AbderrahimeEl&icon=1&color=2&theme=cobalt)](https://visitcount.itsvg.in)
-
 
 <!---
 AbderrahimeEl/AbderrahimeEl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
