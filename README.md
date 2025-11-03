@@ -10,14 +10,19 @@
    <img src="https://skillicons.dev/icons?i=java" width="30" alt="HTML">
    <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="CSS">
    <img src="https://skillicons.dev/icons?i=c" width="30" alt="JavaScript">
-   <img src="https://skillicons.dev/icons?i=express" width="30" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=express" width="30" alt="MongoDB">
    <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js">
    <img src="https://skillicons.dev/icons?i=js" width="30" alt="C">
+     <img src="https://skillicons.dev/icons?i=angular" width="30" alt="Angular">
    <img src="https://skillicons.dev/icons?i=mysql" width="30" alt="C++">
+     <img src="https://skillicons.dev/icons?i=postgresql" width="30" alt="Angular">
+
    <img src="https://skillicons.dev/icons?i=mongodb" width="30" alt="Java">
    <img src="https://skillicons.dev/icons?i=redis" width="30" alt="Flutter">
    <img src="https://skillicons.dev/icons?i=spring" width="30" alt="MongoDB">
    <img src="https://skillicons.dev/icons?i=maven" width="30" alt="MongoDB">
+     <img src="https://skillicons.dev/icons?i=gradle" width="30" alt="Gradle">
+     <img src="https://skillicons.dev/icons?i=kafka" width="30" alt="Kafka">
    <img src="https://skillicons.dev/icons?i=docker" width="30" alt="React.js">
    <img src="https://skillicons.dev/icons?i=git" width="30" alt="PHP">
    <img src="https://skillicons.dev/icons?i=github" width="30" alt="MySQL">
